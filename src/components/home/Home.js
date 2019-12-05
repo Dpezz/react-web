@@ -21,7 +21,7 @@ function Home() {
         <Form.Control type="password" placeholder="Password" />
       </Form.Group>
 
-      <Button variant="primary btn-block" type="submit" href="/dashboard">
+      <Button variant="primary btn-block" type="submit" href="/users">
         Get started
       </Button>
     </Form>

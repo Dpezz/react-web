@@ -31,7 +31,7 @@ function NavLayout() {
               </NavDropdown.Item>
             </NavDropdown> */}
 
-            <Nav.Link href="/dashboard">
+            <Nav.Link href="/users">
               <Button variant="outline-light btn-sm">Get Started</Button>
             </Nav.Link>
           </Nav>
