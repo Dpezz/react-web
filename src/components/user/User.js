@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 function User({ match }) {
   useEffect(() => {
     fetchItem();
-  }, []);
+  });
 
   const [item, setItem] = useState({});
   const fetchItem = async () => {
